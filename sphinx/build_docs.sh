@@ -13,6 +13,7 @@ cd "${DIR}"
 make clean
 make html
 
+
 # copy docs to repo docs folder
 rm -rf "${DIR}"/../docs/*
-cp -r "${DIR}"/_build/* "${DIR}"/../docs/.
+cp -r "${DIR}"/_build/html/* "${DIR}"/../docs/.
