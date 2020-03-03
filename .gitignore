@@ -1,6 +1,5 @@
-data/gene_expression/LOI.csv
-data/gene_expression/NKI.csv
 **.ipynb_checkpoints**
 sphinx/_build/**
-sphinx/examples/*ipynb
 .vscode
+docs/foctrees/**
+docs/
