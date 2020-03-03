@@ -2,4 +2,3 @@
 sphinx/_build/**
 .vscode
 docs/foctrees/**
-docs/
