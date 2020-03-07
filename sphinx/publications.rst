@@ -4,10 +4,10 @@ Publications
 Peer-reviewed journals
 ----------------------
 
-1. | *Application of Protein Set Enrichment Analysis to Correlation of Protein Functional Sets with Mass Spectral Features and Multivariate Proteomic Tests*
-   | J. Grigorieva, S. Asmellash, C. Oliveira, H. Roder, L. Net, J. Roder
-   | Clinical Mass Spectrometry 15 (2020) 44-53
-   | doi: 10.1016/j.clinms.2019.09.001
+* | *Application of Protein Set Enrichment Analysis to Correlation of Protein Functional Sets with Mass Spectral Features and Multivariate Proteomic Tests*
+  | J. Grigorieva, S. Asmellash, C. Oliveira, H. Roder, L. Net, J. Roder
+  | Clinical Mass Spectrometry 15 (2020) 44-53
+  | doi: 10.1016/j.clinms.2019.09.001
 
 * | *A Dropout-Regularized Classifier Development Approach Optimized for Precision Medicine Test Discovery from Omics Data*
   | J. Roder, C. Oliveira, L. Net, M. Tsypin, B. Linstid, H. Roder
