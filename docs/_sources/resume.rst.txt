@@ -61,7 +61,6 @@ Skills
 * Regularization (ridge, LASSO, extreme dropout, ...)
 * p>>n classification problems
 * Clustering
-* PCA, ensembled PCA
 * Proteomics
 * Experimental Particle Physics
 * Clinical statistics
@@ -75,6 +74,8 @@ Skills
 * RNNs
 * Random forests
 * Transformers
+* PCA, ensembled PCA
+* Protein Set Enrichment Analysis
 
 **Programming / scripting languages**
 
