@@ -18,7 +18,7 @@ Professional experience
 * Data analysis and Machine Learning consultant.
 * Top Rated `profile <http://www.upwork.com/o/profiles/users/~0196d3f321099dcd10/>`_.
 
-Biodesix, Inc, Steamboat Springs, CO
+| Biodesix, Inc, Steamboat Springs, CO
 | **Director - Data Analytics** | Aug 2017 - Nov 2018
 | **Scientist** | Jul 2014 - Jul 2017
 
