@@ -45,6 +45,12 @@ Professional experience
 * Implemented the Energy Weighting Technique in Single Photon Counting X-ray imaging enhancing image contrast by 25 % (Matlab based).
 * Developed of algorithms and software (Matlab-based) for X- and Gamma-ray imaging.
 
+Patents
+-------
+* `US 10,037,874 <http://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10037874&IDKey=E27922609ED1%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D3%2526f%3DG%2526l%3D50%2526co1%3DAND%2526d%3DPTXT%2526s1%3Dcarlos.INNM.%2526s2%3D%252522steamboat%252Bsprings%252522.INCI.%2526OS%3DIN%2Fcarlos%252BAND%252BIC%2F%252522steamboat%252Bsprings%252522%2526RS%3DIN%2Fcarlos%252BAND%252BIC%2F%252522steamboat%252Bsprings%252522>`_ | Granted on Jul 31st, 2018 | *Early detection of Hepatocellular Carcinoma in high risk populations using MALDI-TOF Mass Spectrometry*
+* `US 10,007,766 <http://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10007766&IDKey=5B2B8557ECEE%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D4%2526f%3DG%2526l%3D50%2526co1%3DAND%2526d%3DPTXT%2526s1%3Dcarlos.INNM.%2526s2%3D%252522steamboat%252Bsprings%252522.INCI.%2526OS%3DIN%2Fcarlos%252BAND%252BIC%2F%252522steamboat%252Bsprings%252522%2526RS%3DIN%2Fcarlos%252BAND%252BIC%2F%252522steamboat%252Bsprings%252522>`_ | Granted on Jun 26th, 2018 | *Predictive test for melanoma patient benefit from antibody drug blocking ligand activation of the T-cell programmed cell death1(PD-1) checkpoint protein and classifier development methods*
+* `US 9,779,204 <http://pdfpiw.uspto.gov/.piw?PageNum=0&docid=09779204&IDKey=62C880A57BE8%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D5%2526f%3DG%2526l%3D50%2526co1%3DAND%2526d%3DPTXT%2526s1%3Dcarlos.INNM.%2526s2%3D%252522steamboat%252Bsprings%252522.INCI.%2526OS%3DIN%2Fcarlos%252BAND%252BIC%2F%252522steamboat%252Bsprings%252522%2526RS%3DIN%2Fcarlos%252BAND%252BIC%2F%252522steamboat%252Bsprings%252522>`_ | Granted on Oct 3rd, 2017 | *Predictive Test for Aggressive or Indolence of Prostate Cancer from Mass Spectrometry of Blood-Based Sample*
+
 Skills
 ------
 
