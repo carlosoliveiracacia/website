@@ -1,6 +1,8 @@
 About me
 ========
-Hi! My name is Carlos Oliveira and this is my personal website. I am a Data Scientist with Experimental Particle Physics training background. 
+Hi! My name is Carlos Oliveira and this is my personal website. I am a Data Scientist with a background in Experimental Particle Physics. 
+
+I grew up within a family of subsistance farmers, in `Cacia <http://en.wikipedia.org/wiki/Cacia>`_, a small town of the "county" of `Aveiro <http://en.wikipedia.org/wiki/Aveiro,_Portugal>`_, `Portugal <http://en.wikipedia.org/wiki/Portugal>`_. I worked part-time as a construction painter so I could afford my studies after middle school. It was a difficult but very rewarding path!
 
 I graduated with a BsC in Physics degree in 2007 from the `University of Aveiro, Portugal <http://www.ua.pt>`_. 
 

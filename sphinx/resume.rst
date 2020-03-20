@@ -7,9 +7,10 @@ Professional experience
 -----------------------
 
 | Transamerica, Denver, CO
-| **Data Scientist** | Dec 2018 -  Present
+| **Lead Data Scientist** | Mar 2020 - present
+| **Data Scientist** | Dec 2018 -  Feb 2020
 
-* Develop innovative AI based solutions that transform the way business is conducted in the corporation. 
+* Developed innovative AI based solutions that transform the way business is conducted in the corporation. 
 * RNNs (e.g LSTM) for sequencial decision modeling and automation, Transformers for Natural Language Processing in the Questions & Answers context, Semi-supervised Learning.
 
 | Upwork.com

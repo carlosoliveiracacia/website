@@ -2,3 +2,4 @@
 sphinx/_build/**
 .vscode
 docs/foctrees/**
+.DS_Store
