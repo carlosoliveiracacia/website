@@ -16,11 +16,8 @@ done
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
 # build docs
-cd "${DIR}"
+cd "${DIR}"/../
 make clean
 make html
 
-
-# copy docs to repo docs folder
-rm -rf "${DIR}"/../docs/*
-cp -r "${DIR}"/_build/html/* "${DIR}"/../docs/.
+touch "${DIR}"/../docs/html/.nojekyll
