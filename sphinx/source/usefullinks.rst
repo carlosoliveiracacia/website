@@ -24,3 +24,4 @@ Other tools
 -----------
 
 - `Quick reStructuredText <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
+- ``grep`` tutorial (`link <http://ryanstutorials.net/linuxtutorial/grep.php>`_)
