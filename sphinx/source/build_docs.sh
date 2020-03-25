@@ -23,6 +23,6 @@ make html
 
 
 rm -r "${DIR}"/../../docs/*
-cp -r "${DIR}"/../build/* "${DIR}"/../../docs/.
-touch "${DIR}"/../../docs/html/.nojekyll
+cp -r "${DIR}"/../build/html/* "${DIR}"/../../docs/.
+touch "${DIR}"/../../docs/.nojekyll
 touch "${DIR}"/../../docs/.keep
