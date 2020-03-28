@@ -1,5 +1,5 @@
 **.ipynb_checkpoints**
-sphinx/_build/**
+sphinx/build
 .vscode
 docs/foctrees/**
 .DS_Store
