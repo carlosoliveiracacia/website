@@ -24,5 +24,7 @@ make html
 
 rm -r "${DIR}"/../../docs/*
 cp -r "${DIR}"/../build/html/* "${DIR}"/../../docs/.
+rm -r "${DIR}"/../build/*
+touch "${DIR}"/../build/.keep
 touch "${DIR}"/../../docs/.nojekyll
 touch "${DIR}"/../../docs/.keep
