@@ -4,10 +4,20 @@ Publications
 Peer-reviewed journals
 ----------------------
 
+* | *A proposal for score assignment to characterize biological processes from mass spectral analysis of serum*
+  | J. Roder, L. Neta, C. Oliveira, K. Meyer, S. Asmellash. S. Kasimir-Bauer, H. Pass, J. Weber, H. Roder, J. Grigorieva
+  | Clinical Mass Spectrometry (accepted)
+  | doi: 10.1016/j.clinms.2020.09.001
+
+* | *A serum protein classifier that identifies patients with advanced non-small cell lung cancer who derive clinical benefit from treatment with immune checkpoint inhibitors*
+  | JM. Muller, K. Hummelink, D. Hurkmans, AL. Niemeijer, K. Monkhorst, J. Roder, C. Oliveira, H. Roder, J. Aerts, E. Smit
+  | Clinical Cancer Research (accepted)
+  | doi: 10.1016/j.clinms.2020.09.001
+
 * | *Application of Protein Set Enrichment Analysis to Correlation of Protein Functional Sets with Mass Spectral Features and Multivariate Proteomic Tests*
   | J. Grigorieva, S. Asmellash, C. Oliveira, H. Roder, L. Net, J. Roder
   | Clinical Mass Spectrometry 15 (2020) 44-53
-  | doi: 10.1016/j.clinms.2019.09.001
+  | doi: 10.1158/1078-0432.CCR-20-0538
 
 * | *A Dropout-Regularized Classifier Development Approach Optimized for Precision Medicine Test Discovery from Omics Data*
   | J. Roder, C. Oliveira, L. Net, M. Tsypin, B. Linstid, H. Roder

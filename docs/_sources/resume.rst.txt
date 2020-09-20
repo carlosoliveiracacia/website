@@ -10,8 +10,11 @@ Professional experience
 | **Lead Data Scientist** | Mar 2020 - present
 | **Data Scientist** | Dec 2018 -  Feb 2020
 
-* Developed innovative AI based solutions that transform the way business is conducted in the corporation. 
-* RNNs (e.g LSTM) for sequencial decision modeling and automation, Transformers for Natural Language Processing in the Questions & Answers context, Semi-supervised Learning.
+* Technical Lead of a cross-functional team to build a model that sppeds up life insurance underwriting.
+* Actively contributed to foundational and domain specific python repositories that improved reusability, scalability, generalizability and adoption of best coding practices across the Data & Analytics team. Introduced best practices for repository and project documentation.
+* Mentored Junior Data Scientists and introduced new successful Machine Learning approaches to insurance and financial business problems, leveraging and adapting methods used in clinical and survival analysis.
+* Used RNNs for sequential decision modeling and automation; leveraged Natural Language Processing for Underwriting automation; successfully combined ensembling methods and semi-supervised learning techniques for time-to-event and/or n<<p problems.
+
 
 | Upwork.com
 | **Consultant** | Mar 2017 - Present
@@ -23,9 +26,10 @@ Professional experience
 | **Director - Data Analytics** | Aug 2017 - Nov 2018
 | **Scientist** | Jul 2014 - Jul 2017
 
-* Developed Fully Integrated Molecular Diagnostics for Personalized Medicine in a cross-functional setting, combining Machine Learning and Laser Desorption Ionization Mass Spectrometry (MALDI) for the creation of new proteomic blood based tests with clinical application.
-* Contributed for the development of new algorithms (published in peer-reviewed journals) to address the curse of dimensionality that strongly conditions the applicability of traditional Machine Learning techniques in the clinical setting.
+* Developed fully integrated molecular diagnostics for Personalized Medicine in a cross-functional setting, combining Machine Learning and Laser Desorption Ionization Mass Spectrometry for the creation of new proteomic blood based tests with clinical application.
+* Supervised a team of 2 Data Scientists and focused on creating an experiment driven and fluid environment to test the feasibility of a constant pipeline of potential projects.
 * Co-inventor of 3 granted patents (US 9,779,204, US 10,007,766 and 10,037,874) for methods combining Machine Learning and Mass Spectrometry with clinical applications in prostate cancer, hepatocellular carcinoma and immunotherapy of melanoma.
+
 
 | Lawrence Berkeley National Laboratory, Berkeley, CA
 | **Physicist Postdoctoral Fellow** | Feb 2012 - May 2014
@@ -41,10 +45,9 @@ Professional experience
 | University of Aveiro, Aveiro, Portugal
 | **PhD candidate / Researcher**  | Oct 2007 - Sep 2011
 
-* Research and Development in Micro-pattern Gaseous Detectors
-* Simulated the process of electroluminescence in noble gases achieving agreements with experimental results better than 2 % (C++ based).
-* Implemented the Energy Weighting Technique in Single Photon Counting X-ray imaging enhancing image contrast by 25 % (Matlab based).
-* Developed of algorithms and software (Matlab-based) for X- and Gamma-ray imaging.
+* Monte Carlo simulations of electroluminescence in noble gases achieving agreements with experimental results better than 2 %, helping the design of the next generation of massive (ton-scale) particle detectors.
+* Developed algorithms and software for X- and Gamma-ray imaging that have supported, since their inception, research in Medical Imaging and Particle Physic and have been leveraged to produce dozens of peer-reviewed publications.
+
 
 Patents
 -------

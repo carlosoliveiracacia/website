@@ -16,10 +16,18 @@ NLP
 - `Negative Sampling paper <https://arxiv.org/pdf/1310.4546.pdf>`_
 - `Applying word2vec to Recommenders and Advertising <http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/>`_
 
+- `Understanding LSTM's <http://colah.github.io/posts/2015-08-Understanding-LSTMs/>`_
+- `Attention and Augmented Recurrent Neural Networks <https://distill.pub/2016/augmented-rnns/>`_
+- `Convolutional Neural Networks for Sequence Classification <https://arxiv.org/pdf/1408.5882.pdf>`_
+- `A Convolutional Neural Network for Modeling Sentences <https://arxiv.org/pdf/1404.2188.pdf>`_
 
-- `Natural Language Toolkit <https://www.nltk.org/>`_
+- `The Annotated Transformer <http://nlp.seas.harvard.edu/2018/04/03/attention.html>`_
 
 - `Question Answering with a Fine-Tuned BERT <http://mccormickml.com/2020/03/10/question-answering-with-a-fine-tuned-BERT/>`_
+
+Survival based problems
+***********************
+- `External validation of a Cox prognostic model: principles and methods <https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-13-33>`_
 
 Miscelaneous
 ************
@@ -32,16 +40,13 @@ Math & Algebra
 
 Python
 ------
+
+- `The Python (3) Standard Library <https://docs.python.org/3/library/index.html>`_
 - `Real Python <http://realpython.com/>`_
 - Install Python3, ``virtualenv`` & ``virtualenvwrapper`` in OSX (`link <http://swapps.com/blog/how-to-configure-virtualenvwrapper-with-python3-in-osx-mojave/>`_)
 - `Python Numpy Tutorial (CS231n) <http://cs231n.github.io/python-numpy-tutorial/>`_
 - ``scikit-learn`` (`link <https://scikit-learn.org/stable/index.html>`_)
-
-PEP / Style
-***********
-- `PEP249 -- Style Guide for Python Code <https://www.python.org/dev/peps/pep-0008/>`_
-- `PEP249 -- Python Database API specification <http://www.python.org/dev/peps/pep-0249/>`_
-- `Google Python Style Guide <https://google.github.io/styleguide/pyguide.html?showone=Comments#Comments>`_
+- `Conda cheat sheet <file:///Users/coliveira/Downloads/conda-cheatsheet.pdf>`_
 
 Docs
 ****
@@ -53,10 +58,14 @@ Docs
 - ``sphinx-apidoc`` (`link <http://www.sphinx-doc.org/en/master/man/sphinx-apidoc.html>`_)
 - ``pandoc`` (`link <http://pandoc.org/>`_)
 
+PEP / Style
+***********
+- `PEP249 -- Style Guide for Python Code <https://www.python.org/dev/peps/pep-0008/>`_
+- `PEP249 -- Python Database API specification <http://www.python.org/dev/peps/pep-0249/>`_
+- `Google Python Style Guide <https://google.github.io/styleguide/pyguide.html?showone=Comments#Comments>`_
+
 Other tools
 -----------
 
 - `Quick reStructuredText <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
-- ``grep`` tutorial (`link <https://opensourceforu.com/2012/06/beginners-guide-gnu-grep-basics/>`_)
-  
-  - search only for words (not lines) matching a givne regex patern: ``grep -o '\w*patt\w*'``
+- `XPath <https://www.w3schools.com/xml/xpath_nodes.asp>`_
