@@ -43,20 +43,9 @@ Python
 
 - `The Python (3) Standard Library <https://docs.python.org/3/library/index.html>`_
 - `Real Python <http://realpython.com/>`_
-- Install Python3, ``virtualenv`` & ``virtualenvwrapper`` in OSX (`link <http://swapps.com/blog/how-to-configure-virtualenvwrapper-with-python3-in-osx-mojave/>`_)
 - `Python Numpy Tutorial (CS231n) <http://cs231n.github.io/python-numpy-tutorial/>`_
 - ``scikit-learn`` (`link <https://scikit-learn.org/stable/index.html>`_)
 - `Conda cheat sheet <file:///Users/coliveira/Downloads/conda-cheatsheet.pdf>`_
-
-Docs
-****
-- `numpydoc docstring guide <http://numpydoc.readthedocs.io/en/latest/format.html>`_
-- `Example NumPy Style Python Docstrings <http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_numpy.html>`_
-- `Example Google Style Python Docstrings <http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html#example-google>`_
-- ``sphinx`` (`link <http://www.sphinx-doc.org/en/master/>`_)
-- ``nbsphinx`` (`link <http://nbsphinx.readthedocs.io/en/0.5.1/>`_)
-- ``sphinx-apidoc`` (`link <http://www.sphinx-doc.org/en/master/man/sphinx-apidoc.html>`_)
-- ``pandoc`` (`link <http://pandoc.org/>`_)
 
 PEP / Style
 ***********

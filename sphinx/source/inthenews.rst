@@ -7,7 +7,7 @@ I was invited to inaugurate the :download:`Distinguished Speaker Series <files/2
 
 2016 - Motivational talk
 ------------------------
-Sixteen years later, I returned to my middle school to give a motivational talk about how important education is o guarantee an individual can "go up the ladder". `www.noticiasdeaveiro.pt <https://www.noticiasdeaveiro.pt/>`_ were presented and wrote an article (copy available :download:`here <files/2016_NoticiasDeAveiro_C+STalk.pdf>`).
+Sixteen years later, I returned to my middle school to give a motivational talk about how important education is to guarantee an individual can "go up the ladder". `www.noticiasdeaveiro.pt <https://www.noticiasdeaveiro.pt/>`_ was presented and wrote an article (copy available :download:`here <files/2016_NoticiasDeAveiro_C+STalk.pdf>`).
 
 2014 - Portuguese diaspora in the USA
 -------------------------------------
