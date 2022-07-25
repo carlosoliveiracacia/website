@@ -15,7 +15,7 @@ Professional experience
 | **Staff Data Scientist** | Oct 2020 - Jun 2022
 
 * Technical Lead for research, development and deployment of Machine Learning based systems integrated with the new flagship tax product offering that connects customers with experts for a revolutionary tax preparation marketplace. Expert augmentation powering customer service scalability while ensuring high tax return quality standards.
-* Developed and deployed a system to create concise product call summaries using sequence-to-sequence and siamese transformers. Increased call summary coverage from 20% to 90% and allowed call center experts to focus on serving the customer, saving collectively 380k human hours or $13M per year. Recipient of the 2021 Scott Cook Innovation award.
+* Developed and deployed a system to create concise product call summaries. Increased call summary coverage from 20% to 90% and allowed call center experts to focus on serving the customer. Recipient of the 2021 Scott Cook Innovation award.
 * Mentored Data Scientists promoting professional development and technical best practices adoption.
 
 
