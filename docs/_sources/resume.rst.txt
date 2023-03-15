@@ -9,14 +9,17 @@ Professional experience
 | Twilio, San Diego, CA
 | **Principal Machine Learning Engineer** | Jul 2020 - present
 
-* Technical Lead for building scalable and generalizable machine learning features to help Twilio's customers to easily integrate Artificial Intelligence with their products.
+* Technical leadership: development and deployment at scale of Predictive Traits - a customer facing product that allows marketers to easily create multivariate, machine learning models to predict user propensity to perform an arbitrary action. The product allows marketers to leverage advanced ML techniques without the need for deep technical knowledge, with just a few clicks, and using the user data they already track through Segment.
+* Mentored 6 Machine Learning Engineers, from entry to Staff level, raising the bar for best practices. Cross-functional collaboration with infrastructure and platform Software Engineers and Product stakeholders.
+
 
 | Intuit, San Diego, CA
 | **Staff Data Scientist** | Oct 2020 - Jun 2022
 
-* Technical Lead for research, development and deployment of Machine Learning based systems integrated with the new flagship tax product offering that connects customers with experts for a revolutionary tax preparation marketplace. Expert augmentation powering customer service scalability while ensuring high tax return quality standards.
-* Developed and deployed a system to create concise product call summaries. Increased call summary coverage from 20% to 90% and allowed call center experts to focus on serving the customer. Recipient of the 2021 Scott Cook Innovation award.
-* Mentored Data Scientists promoting professional development and technical best practices adoption.
+* Technical leadership: development and deployment of Machine Learning based systems integrated with a new flagship tax product offering that connects customers with experts for a revolutionary tax preparation marketplace. Expert augmentation powering customer service scalability while ensuring high tax return quality standards. Patent US 2023/0030405.
+* Developed and deployed a system to create concise product call summaries using sequence-to-sequence and siamese transformers. Increased call summary coverage from 20% to 90% and allowed call center experts to focus on serving the customer. Recipient of the 2021 Scott Cook Innovation award. Patent US  2023/0036688.
+* Mentored Senior level Data Scientists, promoting professional development and technical best practices.
+
 
 
 | Transamerica, Denver, CO
@@ -103,26 +106,27 @@ Skills
 
 **Programming / scripting languages**
 
-* Matlab (15+ yrs)
-* Python (5+ yrs)
+* Matlab
+* Python (10+ yrs)
 * SQL
 
 **Tools**
 
  * ``matplotlib``
+ * ``mkdocs``
  * ``numpy``
  * ``pandas``
+ * ``pydantic``
+ * ``pySpark``
  * ``PyTorch``
  * ``scikit-learn``
  * ``sphinx``
-
  
- * Emacs
- * git, github, bitbucket
+ * git, github
  * Jupyter notebooks
  * Latex
  * Linux
- * Microsoft Office (Word, Excel, Powerpoint, OneNote, ...)
+ * Sagemaker
  * Visual Studio Code
 
 Languages
